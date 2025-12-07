@@ -1,1 +1,4 @@
-print("こんにちは Git 練習中！")
+print(1+1)
+
+print(1+1)
+
